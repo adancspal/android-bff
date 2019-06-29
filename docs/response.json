@@ -1,0 +1,8 @@
+{
+	"firstName": "Adan", 
+	"lastName": "Carreno", 
+	"address": {
+		"firstLineAddress": "Monroe", 
+		"secondLineAddress": "5544"
+	}
+}
